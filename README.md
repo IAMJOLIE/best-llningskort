@@ -2,24 +2,16 @@
 
 ![För att se hur designen ska se it i desktop format](./design/desktop.png)
 
-## Dags för projekt! 🐺
+Bakgrund
+I det här projektet var min uppgift att bygga en beställningskort-komponent och säkerställa att den designmässigt överensstämde med prototyperna för både mobil- och desktop-format.
 
-## Vad ska ni göra?
+Vad jag gjorde
+Jag valde att använda HTML och CSS för att skapa komponenten.
+Jag byggde layouten och strukturen med semantisk HTML och använde CSS för att styla komponenten och göra den responsiv.
+Responsiviteten implementerades med hjälp av media queries, så att designen anpassar sig sömlöst mellan mobil- och desktopformat.
 
-Din utmaning är att bygga ut denna beställningskort-komponent och få den att se så likadan ut som möjligt enligt designen.
+Resultatet
+Designen följdes noggrant för att återspegla en pixelperfekt implementation av beställningskortet. Funktioner och layout anpassades efter specifikationerna, vilket resulterade i en komponent som fungerar sömlöst på både mobil och desktop.
 
-Du kan använda vilka verktyg du vill för att hjälpa dig att slutföra utmaningen. Så om du har något du vill öva på, känn dig fri att prova det.
 
-EX. Sass, Tailwind, React 🔥
 
-## Hur ska det se ut?
-
-Din uppgift är att bygga projektet enligt designerna i mappen `./design` Du hittar både en mobil- och en skrivbordsversion av designen.
-
-Designerna är i statiskt JPG-format. Att använda JPG:er betyder att du behöver använda ditt bästa omdöme för stilar som `font-size`, `padding` och `margin`.
-
-Alla nödvändiga resurser finns i mappen `/images.` Resurserna är redan optimerade.
-
-## Lämna in uppgift
-
-Lämna in uppgift genom att skicka screenshoot på din design i assignment `(Inlämning - Beställnigskort)` som ligger nedanför Projekt lektionen i TSM materialt.
